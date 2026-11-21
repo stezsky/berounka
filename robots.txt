@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://stezsky.github.io/berounka/sitemap.xml
+Sitemap: https://berounka-janov.cz/sitemap.xml
